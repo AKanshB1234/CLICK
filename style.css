@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(252, 2, 2);
+    text-align: center;
+}
+#ck{
+    width:45%;
+    height:40%;
+    border-radius: 45px;
+    border-color:blueviolet;
+    border-width: 10px;
+}
+#st{
+    background-color: rgb(38, 250, 6);
+    border-radius: 25px;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
